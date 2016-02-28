@@ -1,0 +1,43 @@
+_repo: Household-Tales-by-Brothers-Grimm_5314
+contributor:
+  translator:
+    agent_name: Hunt, Alfred William, Mrs.
+    aliases:
+    - Hunt, Margaret Raine
+    - Beaumont, Averil
+    birthdate: 1831
+    deathdate: 1912
+    gutenberg_agent_id: '4475'
+    url: http://www.gutenberg.org/2009/agents/4475
+creator:
+  authors:
+  - agent_name: Grimm, Wilhelm
+    alias: Grimm, Wilhelm Carl
+    birthdate: 1786
+    deathdate: 1859
+    gutenberg_agent_id: '972'
+    url: http://www.gutenberg.org/2009/agents/972
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
+  - agent_name: Grimm, Jacob
+    alias: Grimm, Jacob Ludwig Carl
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '971'
+    url: http://www.gutenberg.org/2009/agents/971
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Germany'
+- !lcc 'PT'
+title: Household Tales by Brothers Grimm
+url: http://www.gutenberg.org/ebooks/5314
