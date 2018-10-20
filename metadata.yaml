@@ -1,5 +1,5 @@
 _repo: Household-Tales-by-Brothers-Grimm_5314
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Hunt, Alfred William, Mrs.
@@ -45,5 +45,6 @@ subjects:
 - !lcc 'PZ'
 - !lcsh 'Fairy tales -- Germany'
 - !lcc 'PT'
+- GITenberg
 title: Household Tales by Brothers Grimm
 url: http://www.gutenberg.org/ebooks/5314
